@@ -18,4 +18,3 @@ This is a small javascript project where I have made a Todo List Manager using V
 
 @CN-its ready to work! :shipit: 
 
-https://youtu.be/LIQqfm9pPgU
